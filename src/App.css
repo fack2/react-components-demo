@@ -1,0 +1,43 @@
+.red-component {
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.green-component {
+  width: 100px;
+  height: 100px;
+  background: green;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.blue-component {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.square-component {
+  width: 100px;
+  height: 100px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.lemon-component {
+  border-radius: 50%;
+
+  width: 80px;
+  height: 100px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.square-container {
+  width: 200px;
+}
